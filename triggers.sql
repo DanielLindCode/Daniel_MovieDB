@@ -1,6 +1,3 @@
--- ToDo --
--- Trigger som kollar så datan inte redan finns
--- Trigger som kollar så man inte sätter ett datum som inte redan har varit
 
 DROP TRIGGER IF EXISTS tr_ins_actor;
 DROP TRIGGER IF EXISTS tr_ins_dir;
